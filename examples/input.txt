@@ -1,0 +1,8 @@
+main begin
+	var a;
+	var b;
+	get a;
+	get b;
+	let a be mul(a,b);
+	print a;
+end
